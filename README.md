@@ -1,6 +1,4 @@
-# 
-
-﻿# Calculator-in-jQuerye
+# Calculator-in-jQuerye
 A calculator written in jQuery as the ending stage of my short study to learn about this technology.
 
 ## Built With
